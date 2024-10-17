@@ -1,4 +1,4 @@
-# healthcare-data-analysis
+# healthcare-data-analysi
 A simple data analysis on healthcare sector using MySQL.
 Healthcare Data Analysis Using MySQL
 
